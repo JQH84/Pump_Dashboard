@@ -195,7 +195,6 @@ else:
     df = None
     if df is None:
             st.write('have a look at how ML model can be used to predict the failure') 
-            st.video('https://www.youtube.com/watch?v=9JpdAg6uMXs')
     if demo_button:
             df = pd.read_csv('data.csv' , index_col='DATE', parse_dates=True , low_memory=False)
             df.index = pd.to_datetime(df.index)
