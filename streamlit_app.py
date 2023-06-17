@@ -12,7 +12,7 @@ import plotly.figure_factory as ff
 import plotly.io as pio
 from plotly.subplots import make_subplots
 # set page config to wide
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide" , page_title= "Digital Petroleum Pump Dashboard")
 
 
 # set the title of the dashboard
