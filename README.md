@@ -34,11 +34,5 @@ You can install these dependencies by running `pip install -r requirements.txt`.
 - `DP_BlueLogo.png`: The logo image displayed in the sidebar.
 - `README.md`: The readme file with instructions and information about the app.
 
-## Credits
 
-This app is developed by [Your Name] and is based on Streamlit, a Python library for building interactive web applications for data science and machine learning.
-
-## License
-
-[Specify the license for your app]
 
